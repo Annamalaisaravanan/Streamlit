@@ -7,4 +7,4 @@
   # Dataset  
   ![](images/stream_data.jpg)
   # Plots
-  ![](images/newplot.png)
+  ![](images/boxplot.png)
